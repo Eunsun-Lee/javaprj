@@ -1,0 +1,2 @@
+hellokor : 90, eng : 80
+end49
